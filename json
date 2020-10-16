@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "count": 2, 
+      "currency": "UYU", 
+      "src": "img/tree1.jpg", 
+      "name": "Pino de olor para el auto", 
+      "unitCost": 100
+    }, 
+    {
+      "count": 1, 
+      "currency": "USD", 
+      "src": "img/prod2.jpg", 
+      "name": "Fiat Milenia", 
+      "unitCost": 12500
+    }, 
+    {
+      "count": 1, 
+      "currency": "USD", 
+      "src": "img/prod3.jpg", 
+      "name": "Peugeot 208", 
+      "unitCost": 15000
+    }, 
+    {
+      "count": 1, 
+      "currency": "USD", 
+      "src": "img/prod4.jpg", 
+      "name": "Suzuki Celerio", 
+      "unitCost": 9500
+    }, 
+    {
+      "count": 1, 
+      "currency": "USD", 
+      "src": "img/prod1_1.jpg", 
+      "name": "Chevrolet Onix Joy", 
+      "unitCost": 14000
+    }
+  ]
+}
