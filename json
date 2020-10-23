@@ -11,29 +11,29 @@
       "count": 1, 
       "currency": "USD", 
       "src": "img/prod2.jpg", 
-      "name": "Fiat Milenia", 
-      "unitCost": 12500
+      "name": "Fiat Way", 
+      "unitCost": 14500
     }, 
     {
       "count": 1, 
       "currency": "USD", 
       "src": "img/prod3.jpg", 
       "name": "Peugeot 208", 
-      "unitCost": 15000
+      "unitCost": 15200
     }, 
     {
       "count": 1, 
       "currency": "USD", 
       "src": "img/prod4.jpg", 
       "name": "Suzuki Celerio", 
-      "unitCost": 9500
+      "unitCost": 12500
     }, 
     {
       "count": 1, 
       "currency": "USD", 
       "src": "img/prod1_1.jpg", 
       "name": "Chevrolet Onix Joy", 
-      "unitCost": 14000
+      "unitCost": 13500
     }
   ]
 }
