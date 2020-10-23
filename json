@@ -17,14 +17,14 @@
     {
       "count": 1, 
       "currency": "USD", 
-      "src": "img/prod3.jpg", 
+      "src": "img/prod4.jpg", 
       "name": "Peugeot 208", 
       "unitCost": 15200
     }, 
     {
       "count": 1, 
       "currency": "USD", 
-      "src": "img/prod4.jpg", 
+      "src": "img/prod3.jpg", 
       "name": "Suzuki Celerio", 
       "unitCost": 12500
     }, 
